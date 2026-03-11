@@ -1,7 +1,7 @@
 {
-    "model_name": "Gradient Boosting",
-    "accuracy": 0.9417,
-    "f1_score": 0.9402,
+    "model_name": "Random Forest",
+    "accuracy": 0.9333,
+    "f1_score": 0.9312,
     "features": [
         "Age",
         "DistanceFromHome",
