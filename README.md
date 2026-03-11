@@ -60,6 +60,12 @@ INX_Performance_Project/
    - `visualize.ipynb`
    - `predict_model.ipynb`
 
+## Performance Dashboard
+
+Comprehensive analysis dashboard showing model performance, department rankings, and key performance factors:
+
+![Performance Dashboard](performance_dashboard.png)
+
 ## Key Technologies
 
 - Python 3.8+
